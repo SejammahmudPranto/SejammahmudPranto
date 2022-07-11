@@ -1,4 +1,4 @@
- Hello I’m @SejammahmudPranto. Lets code with Javascript. Also have expertise in Microcontroller Coding, IOT, Python, ESP32. I’m interested in "Everything related to technology!". Learning Frontend.
+ Hello I’m @SejamMahmudPranto. Lets code with Javascript. Also have expertise in Microcontroller Coding, IOT, Python, ESP32. I’m interested in "Everything related to technology!". Learning Frontend.
  Email me at prantosm@gmail.com.
 
 <!---
